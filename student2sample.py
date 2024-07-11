@@ -422,12 +422,6 @@ class StudentManagement:
         con.close()
 
 
-       
-
-
-
-
-        # Your existing student management code...
 
     def logout(self):
         self.root.destroy()
